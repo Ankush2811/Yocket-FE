@@ -1,11 +1,11 @@
 # Outline: 
 A notorious criminal escape artist has vanished again. However, the criminal may be hiding in only one of the possible 5 neighbouring cities. 3 fearless cops have volunteered in capturing the fugitive hiding and they need your help!
 
-## Technologies:
+# Technologies:
 Frontend: Vue, React, or Angular (Choose one)
 Backend: NodeJS
 
-## Gameplay:
+# Gameplay:
 City Selection: Each cop independently chooses one city from below to investigate:
 City Distance from current city
 Yapkashnagar 60 KM
@@ -16,14 +16,14 @@ Nuravgram 20 KM
 
 
 
-## Vehicle Selection: Based on the chosen city's distance, each cop selects an electric vehicle considering its range and availability:
+# Vehicle Selection: Based on the chosen city's distance, each cop selects an electric vehicle considering its range and availability:
 Kind       Range    Count 
 EV Bike    60 KM    2
 EV Car     100 KM   1
 EV SUV     120 KM   1
 
 
-## Result: The system determines if any cop successfully found the fugitive (simulated). If found, it displays the name of the cop who made the successful capture.
+# Result: The system determines if any cop successfully found the fugitive (simulated). If found, it displays the name of the cop who made the successful capture.
 
 
 
@@ -65,8 +65,12 @@ Bonus points for Clean UI/UX.
 No mock UI. Candidates are free to use their imagination.
 Next page contains assets that may be used (Not mandatory, feel free to be creative).
 
+# Landing Page
 ![image](https://github.com/Ankush2811/Yocket-FE/assets/28223313/1f38be03-276f-4979-ae47-661335a9ef29)
+# City Selection Page
 ![image](https://github.com/Ankush2811/Yocket-FE/assets/28223313/1e67b694-c9f4-495b-a0a9-f6815363a6cf)
+# Vehicle Selection Page
 ![image](https://github.com/Ankush2811/Yocket-FE/assets/28223313/1019aa0c-5b35-4038-b064-674aedb320e8)
+# Result Page
 ![image](https://github.com/Ankush2811/Yocket-FE/assets/28223313/15cb17fe-d6db-4a38-8b43-e9dfe4681f1b)
 
