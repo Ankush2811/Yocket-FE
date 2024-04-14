@@ -64,3 +64,9 @@ Bonus points for unit testing.
 Bonus points for Clean UI/UX.
 No mock UI. Candidates are free to use their imagination.
 Next page contains assets that may be used (Not mandatory, feel free to be creative).
+
+![image](https://github.com/Ankush2811/Yocket-FE/assets/28223313/1f38be03-276f-4979-ae47-661335a9ef29)
+![image](https://github.com/Ankush2811/Yocket-FE/assets/28223313/1e67b694-c9f4-495b-a0a9-f6815363a6cf)
+![image](https://github.com/Ankush2811/Yocket-FE/assets/28223313/1019aa0c-5b35-4038-b064-674aedb320e8)
+![image](https://github.com/Ankush2811/Yocket-FE/assets/28223313/15cb17fe-d6db-4a38-8b43-e9dfe4681f1b)
+
